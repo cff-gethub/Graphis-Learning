@@ -95,6 +95,7 @@ cosθ = 0.5/(1×1) = 0.5  →  θ = 60°
 `(1,0,0)` 被转到 `(0,1,0)`，正好是绕 Z 转 90° 的结果。理解了这一点，旋转矩阵不用背。
 
 ---
+<img width="637" height="366" alt="image" src="https://github.com/user-attachments/assets/0229866f-87fc-487b-a5e1-9c58457e7646" />
 
 ## 2. 变换（ch6）
 
